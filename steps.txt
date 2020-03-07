@@ -1,0 +1,15 @@
+#login and menu
+$ ionic g page pages/login
+$ ionic g page pages/menu
+$ ionic g page pages/transactionWithTabs
+$ ionic g page pages/setting
+
+#used for tabs
+$ ionic g page pages/list
+$ ionic g page pages/send
+$ ionic g page pages/receive
+
+# services
+ionic g service services/coin
+
+ionic g service services/KeyValue
